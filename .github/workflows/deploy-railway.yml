@@ -51,8 +51,8 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/mf-assistant:${{ github.sha }}
-            ghcr.io/${{ github.repository_owner }}/mf-assistant:latest
+            ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:${{ github.sha }}
+            ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:latest
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
@@ -60,13 +60,13 @@ jobs:
         with:
           body: |
             Docker image published to GHCR:
-            - `ghcr.io/${{ github.repository_owner }}/mf-assistant:${{ github.ref_name }}`
-            - `ghcr.io/${{ github.repository_owner }}/mf-assistant:latest`
+            - `ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:${{ github.ref_name }}`
+            - `ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:latest`
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish note
         run: |
           echo "Docker images pushed to GHCR:"
-          echo "  ghcr.io/${{ github.repository_owner }}/mf-assistant:${{ github.sha }}"
-          echo "  ghcr.io/${{ github.repository_owner }}/mf-assistant:latest"
+          echo "  ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:${{ github.sha }}"
+          echo "  ghcr.io/${{ github.repository_owner | lower }}/mf-assistant:latest"
