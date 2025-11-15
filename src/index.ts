@@ -1,4 +1,4 @@
-import express from 'express';
+import express, { Request, Response } from 'express';
 import { handleQuery } from './chatbot/handler';
 import { exampleQuestions } from './data/faqData';
 
@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // Welcome endpoint
-app.get('/', (req, res) => {
+app.get('/', (req: Request, res: Response) => {
     res.json({
         message: "Welcome to Facts-Only MF Assistant",
         description: "A RAG-based chatbot that answers factual questions about mutual fund schemes",
@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 });
 
 // Query endpoint
-app.post('/query', async (req, res) => {
+app.post('/query', async (req: Request, res: Response) => {
     const userQuery = req.body.query;
     
     if (!userQuery) {
@@ -41,7 +41,7 @@ app.post('/query', async (req, res) => {
 });
 
 // Health check endpoint
-app.get('/health', (req, res) => {
+app.get('/health', (req: Request, res: Response) => {
     res.json({ status: 'MF FAQ Assistant is running' });
 });
 
