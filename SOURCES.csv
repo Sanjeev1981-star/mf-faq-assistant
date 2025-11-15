@@ -1,0 +1,26 @@
+Source ID,Source Name,URL,Category,Description
+1,SEBI Guidelines,https://www.sebi.gov.in/sebi_data/commondocs/,Regulatory,Securities and Exchange Board of India official guidelines
+2,AMFI Research,https://www.amfiindia.com/research-and-reports/,Regulatory,Association of Mutual Funds in India research and reports
+3,HDFC Fund Schemes,https://www.hdfcfund.com/mutual-fund-schemes,AMC,HDFC Asset Management Company mutual fund schemes
+4,ICICI Prudential,https://www.icicipruamc.com/mutual-fund-schemes,AMC,ICICI Prudential Asset Management mutual fund schemes
+5,SBI Mutual Fund,https://www.sbimf.com/en-us/mutual-fund-schemes,AMC,State Bank of India mutual fund schemes
+6,Axis Mutual Fund,https://www.axismf.com/mutual-fund-schemes,AMC,Axis Asset Management mutual fund schemes
+7,Kotak Mutual Fund,https://www.kotakmutual.com/mutual-fund-schemes,AMC,Kotak Asset Management mutual fund schemes
+8,Franklin Templeton,https://www.franklintempletonindia.com/investor/mutual-fund-schemes,AMC,Franklin Templeton mutual fund schemes
+9,Nippon India,https://www.nipponindiamf.com/mutual-fund-schemes,AMC,Nippon Life India Asset Management mutual fund schemes
+10,UTI Mutual Fund,https://www.utimf.com/mutual-fund-schemes,AMC,Unit Trust of India mutual fund schemes
+11,Mirae Asset,https://www.miraeassetmf.co.in/mutual-fund-schemes,AMC,Mirae Asset Global Investments mutual fund schemes
+12,IDFC Mutual Fund,https://www.idfcmf.com/mutual-fund-schemes,AMC,IDFC Asset Management mutual fund schemes
+13,L&T Mutual Fund,https://www.ltfs.com/mutual-fund-schemes,AMC,L&T Investment Management mutual fund schemes
+14,Sundaram Mutual,https://www.sundarammutual.com/mutual-fund-schemes,AMC,Sundaram Asset Management mutual fund schemes
+15,Edelweiss Mutual Fund,https://www.edelweissmf.com/mutual-fund-schemes,AMC,Edelweiss Asset Management mutual fund schemes
+16,SEBI Exit Load Guidelines,https://www.sebi.gov.in/sebi_data/commondocs/exit-load-guidelines,Regulatory,SEBI guidelines on exit load charges
+17,SEBI Expense Ratio,https://www.sebi.gov.in/sebi_data/commondocs/expense-ratio-guidelines,Regulatory,SEBI guidelines on expense ratio disclosure
+18,SEBI ELSS Regulations,https://www.sebi.gov.in/sebi_data/commondocs/elss-regulations,Regulatory,SEBI regulations for ELSS schemes
+19,SEBI Riskometer Guidelines,https://www.sebi.gov.in/sebi_data/commondocs/riskometer-guidelines,Regulatory,SEBI riskometer classification standards
+20,SEBI NAV Calculation,https://www.sebi.gov.in/sebi_data/commondocs/nav-calculation-guidelines,Regulatory,SEBI guidelines for NAV calculation
+21,SEBI KIM Guidelines,https://www.sebi.gov.in/sebi_data/commondocs/kim-guidelines,Regulatory,SEBI Key Information Memorandum guidelines
+22,AMFI Factsheets,https://www.amfiindia.com/research-and-reports/fact-sheets,Regulatory,AMFI factsheet format and requirements
+23,AMFI SIP Guidelines,https://www.amfiindia.com/research-and-reports/sip-guidelines,Regulatory,AMFI guidelines for Systematic Investment Plans
+24,AMFI Tax Documentation,https://www.amfiindia.com/research-and-reports/tax-documentation-guide,Regulatory,AMFI tax document handling and requirements
+25,SEBI Fund Valuation,https://www.sebi.gov.in/sebi_data/commondocs/fund-valuation,Regulatory,SEBI mutual fund valuation methodology

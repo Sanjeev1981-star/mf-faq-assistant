@@ -1,0 +1,62 @@
+[
+    {
+        "name": "SEBI",
+        "url": "https://www.sebi.gov.in/sebi_data/commondocs/2021/mf-scheme-docs.html"
+    },
+    {
+        "name": "AMFI",
+        "url": "https://www.amfiindia.com/research-and-reports/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - HDFC",
+        "url": "https://www.hdfcfund.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - ICICI",
+        "url": "https://www.icicipruamc.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - SBI",
+        "url": "https://www.sbimf.com/en-us/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Axis",
+        "url": "https://www.axismf.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Kotak",
+        "url": "https://www.kotakmutual.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Franklin Templeton",
+        "url": "https://www.franklintempletonindia.com/investor/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Nippon India",
+        "url": "https://www.nipponindiamf.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - UTI",
+        "url": "https://www.utimf.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Mirae Asset",
+        "url": "https://www.miraeassetmf.co.in/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - IDFC",
+        "url": "https://www.idfcmf.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - L&T",
+        "url": "https://www.ltfs.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Sundaram",
+        "url": "https://www.sundarammutual.com/mutual-fund-schemes"
+    },
+    {
+        "name": "AMC - Edelweiss",
+        "url": "https://www.edelweissmf.com/mutual-fund-schemes"
+    }
+]
